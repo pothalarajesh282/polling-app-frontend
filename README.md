@@ -4,8 +4,8 @@ Frontend for the Mini Polling Application built with React, Redux, and Material-
 
 ## 🚀 Live Demo
 
-- **Frontend**: [Your Vercel Frontend URL]
-- **Backend API**: [Your Vercel Backend URL]
+- **Frontend**: https://polling-app-frontend-eight.vercel.app/
+- **Backend API**: https://polling-app-backend-ashen.vercel.app/
 
 ## 🛠 Tech Stack
 
